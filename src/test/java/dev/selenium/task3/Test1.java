@@ -1,4 +1,4 @@
-package dev.selenium;
+package dev.selenium.task3;
 
 import org.junit.After;
 import org.junit.Before;
